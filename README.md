@@ -1,6 +1,6 @@
 ## What is this?
 
-Code and data for analyzing the Countdown TV show numbers game. Full info at http://www.daitx.com/2016/04/28/countdown-math/
+Code and data for analyzing the Countdown TV show numbers game. Full info at hdtx.io/countdown.
 
 ## Data files
 
